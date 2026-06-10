@@ -1,4 +1,4 @@
-# Rules
+# Record
 > [!WARNING]
 > 
 > **这是一个自用记录仓库 (请勿FORK)**
