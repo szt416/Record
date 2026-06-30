@@ -30,4 +30,6 @@
 > 
 > 2026.6.15 Awaiting Reviewer Scores
 > 
-
+> 2026.6.26 Awaiting SE Decision
+> 
+> 2026.6.29 Accept with Revision
