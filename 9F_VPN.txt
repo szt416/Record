@@ -1,0 +1,6 @@
+vless://453889eb-2934-4521-aa28-e3f949043ef9@52.77.235.43:443?encryption=none&security=reality&sni=www.samsung.com&pbk=TLCfHt6bl6BcMB8P-eAHcZhUeloKJSyhq6CT8auMMVY&sid=25971eac&flow=xtls-rprx-vision&fp=chrome&type=tcp#Singapore
+vless://453889eb-2934-4521-aa28-e3f949043ef9@sg.theone58.com:2053?encryption=none&security=tls&sni=sg.theone58.com&type=ws&path=%2Fws-tunnel&fp=chrome#Singapore-CDN
+vless://453889eb-2934-4521-aa28-e3f949043ef9@34.235.245.91:443?encryption=none&security=reality&sni=www.samsung.com&pbk=TLCfHt6bl6BcMB8P-eAHcZhUeloKJSyhq6CT8auMMVY&sid=25971eac&flow=xtls-rprx-vision&fp=chrome&type=tcp#United%20States
+vless://453889eb-2934-4521-aa28-e3f949043ef9@us.theone58.com:2053?encryption=none&security=tls&sni=us.theone58.com&type=ws&path=%2Fws-tunnel&fp=chrome#United%20States-CDN
+vless://453889eb-2934-4521-aa28-e3f949043ef9@35.75.37.99:443?encryption=none&security=reality&sni=www.samsung.com&pbk=TLCfHt6bl6BcMB8P-eAHcZhUeloKJSyhq6CT8auMMVY&sid=25971eac&flow=xtls-rprx-vision&fp=chrome&type=tcp#Japan
+vless://453889eb-2934-4521-aa28-e3f949043ef9@jp.theone58.com:2053?encryption=none&security=tls&sni=jp.theone58.com&type=ws&path=%2Fws-tunnel&fp=chrome#Japan-CDN
